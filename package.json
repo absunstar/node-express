@@ -1,0 +1,21 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Full Web Site Management Options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "site",
+    "cookies",
+    "sessions",
+    "security"
+  ],
+  "author": "Node Express Developer",
+  "license": "ISC",
+  "dependencies": {
+    "isite": "^2021.12.16"
+  }
+}
